@@ -40,19 +40,21 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
   </a>
 </p>
-<h3 align="center"> Contributions to Hacktoberfest: </h3>
+<!-- <h3 align="center"> Contributions to Hacktoberfest: </h3>
 <p align="center">
   <a href="https://holopin.me/hksharma2004" target="_blank" rel="noreferrer">
     <img src="https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp" alt="c" width="50" height="50" />
   </a>
+</p> -->
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hksharma2004&show_icons=true&locale=en&layout=compact" alt="hksharma2004" />
 </p>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hksharma2004&show_icons=true&locale=en&layout=compact" alt="hksharma2004" />
+<p align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=hksharma2004&show_icons=true&locale=en" alt="hksharma2004" />
 </p>
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=hksharma2004&show_icons=true&locale=en" alt="hksharma2004" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hksharma2004&" alt="hksharma2004" />
+
+<p align="center">
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=hksharma2004&" alt="hksharma2004" />
 </p>
 </br>

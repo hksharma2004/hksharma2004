@@ -12,8 +12,9 @@
 <img align="center" alt="Coding" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </br>
 </br>
+<h3 align="center"> Visitors: </h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hksharma2004&label=Profile%20views&color=0e75b6&style=flat" alt="hksharma2004" />
+  <img src="https://profile-counter.glitch.me/24164927-6a7a-442a-a4ad-ba148bfae112/count.svg" alt="hit counter" align="center">
 </p>
 
 <h3 align="center">Connect with me:</h3>

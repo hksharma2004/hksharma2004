@@ -15,6 +15,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hksharma2004&label=Profile%20views&color=0e75b6&style=flat" alt="hksharma2004" />
 </p>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://linkedin.com/in/harsh-kumar-sharma-12a143276" target="blank">
@@ -25,6 +26,7 @@
   </a>
 </p>
 <p>
+  
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">

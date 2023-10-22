@@ -2,12 +2,6 @@
 <h3 align="center">A passionate frontend developer🧑‍💻 from India🇮🇳.<br>I am a fresher IT student at USICT🎓,GGSIPU.<br> My journey in the web development world began with a deep love for crafting pixel-perfect, user-friendly experiences.</h3>
 <img align="right" alt="Coding" width="800" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hksharma2004&label=Profile%20views&color=0e75b6&style=flat" alt="hksharma2004" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hksharma2004" alt="hksharma2004" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/harsh-kumar-sharma-12a143276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-kumar-sharma-12a143276" height="30" width="40" /></a>

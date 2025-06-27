@@ -50,12 +50,6 @@
   </a>
 </p> -->
 </p>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hksharma2004&show_icons=true&locale=en&layout=compact" alt="hksharma2004" />
-</p>
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=hksharma2004&show_icons=true&locale=en" alt="hksharma2004" />
-</p>
 
 <p align="center">
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hksharma2004&" alt="hksharma2004" />

@@ -50,8 +50,4 @@
   </a>
 </p> -->
 </p>
-
-<p align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=hksharma2004&" alt="hksharma2004" />
-</p>
 </br>

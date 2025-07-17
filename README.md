@@ -1,11 +1,4 @@
-<p align="right">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=40&duration=200&pause=1015&color=F7F400&center=true&vCenter=true&random=false&width=900&height=100&lines=%3C+Hello+World+%2F%3E;%3C+Namaste+Duniya+%2F%3E;%3C+Hallo+Welt+%2F%3E;%3C+Ciao+Mondo+%2F%3E;%3C++konnichiwa+sekai+++%2F%3E" alt="Typing SVG" />
-  </a>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro&size=35&duration=200&pause=2000&color=F7F400&center=true&vCenter=true&multiline=true&random=false&width=900&height=100&lines=Hey+there+%F0%9F%91%8B%2C+I+am+Harsh+Kumar+Sharma.;A+Self+-+Taught+Frontend+Developer+%F0%9F%96%A5%EF%B8%8F+;Quick+fox+jumps+nightly+above+wizard" alt="Typing SVG" />
-  </a>
-</p>
+
 <h3 align="center">
   <br>I am a sophomore IT student at USICT🎓,GGSIPU. <br> My journey in the web development world began with a deep love for crafting pixel-perfect, user-friendly experiences.
 </h3>
